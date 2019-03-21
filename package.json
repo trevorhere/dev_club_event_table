@@ -2,9 +2,11 @@
   "name": "upcomingevents",
   "version": "0.1.0",
   "private": true,
+  "author": "trevor_lane",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-materialize": "^2.6.0",
     "react-scripts": "2.1.8"
   },
   "scripts": {
